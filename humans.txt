@@ -1,0 +1,4 @@
+Project: Xfinity Prepaid Guides
+Publisher: Utility Bill Help
+Purpose: Informational billing & troubleshooting clarity
+Location: GitHub Pages
